@@ -11,3 +11,4 @@ export default class DiretorB implements Diretor {
         return construtorB.obterObjeto()
     }
 }
+
